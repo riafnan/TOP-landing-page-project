@@ -52,3 +52,10 @@ a{
 .rand-1 {
     font-size: 18px;
 }
+button {
+    background-color: #3882F6;
+    color: white;
+    font-size: 20px;
+    border-radius: 8px;
+    background-size: 50px;
+}
