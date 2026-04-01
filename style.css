@@ -72,6 +72,9 @@ button {
     border-radius: 8px;
     background-size: 50px;
     font-family:'Courier New', Courier, monospace;
+    padding: 10px;
+    font-weight: 600;
+
 
 }
 
@@ -134,10 +137,9 @@ button {
     color: white;
     margin-left: 200px;
     margin-right: 200px;
-    margin-top: 70px;
-    margin-bottom: 70px;
-    padding-top: 15px;
-    padding-bottom: 15px;
+    margin-top: 80px;
+    margin-bottom:80px;
+    align-items: center;
 }
 
 .cta-button {
@@ -145,6 +147,8 @@ button {
     margin-bottom: 25px;
     outline: 1px solid white;
     font-weight: 600;
+    padding: 10px;
+    font-size: 20px;
 }
 
 .footer {
